@@ -1,4 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 It generated some directories and files under the directory in which I get init.
 I need it to start a version control for the project.
- 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+By the staging area, I can separate files which are administrated by git and ones not.
