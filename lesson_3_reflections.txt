@@ -4,4 +4,5 @@ I want to do so when I cannot use my local macihne and when I share the work wit
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because GitHub repository is seen by other people, I want to push my repository after I finish some works.
 
- 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks copy GitHub repository into a new GitHub repository, Clones copy into a local repository, Branches add a new developmental branch locally.
